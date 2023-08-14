@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Ken je ons team?
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Het team van Advocaten Sablon ondersteunt u bij juridische vragen en rechtszaken. Meer weten? Neem contact met ons op!

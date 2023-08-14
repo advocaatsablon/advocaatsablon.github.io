@@ -46,18 +46,26 @@
 	src: local(''), url('../fonts/AlegreyaSans-Regular.ttf');
 }
 
-	@font-face {
+@font-face {
 		font-family: 'Alegreya Sans Light';
 		font-style: normal;
 		font-weight: 400;
 		font-display: swap;
 		src: local(''), url('../fonts/AlegreyaSans-Light.ttf');
-	}
+}
 
-		@font-face {
+@font-face {
 			font-family: 'Josefin Sans Light';
 			font-style: normal;
 			font-weight: 400;
 			font-display: swap;
 			src: local(''), url('../fonts/JosefinSans-Light.ttf');
+}
+
+@font-face {
+	font-family: 'Candara Regular';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local(''), url('../fonts/Candara.ttf');
 }
